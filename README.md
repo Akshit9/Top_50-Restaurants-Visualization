@@ -30,7 +30,7 @@ Libraries : pandas, numpy, matplotlib, plotly
 
 # Note : 
 
-- As it is not showing the plottings, Please check the symbol in the top right corner of input [1]. Click on the symbol u will get an " External view available " 
+- As it is not showing the plottings, Please check the symbol in the top right corner of input [1]. Click on the symbol u will get an " External view available with nbviewer " 
 - Click that view u can get proper visualizations over there.
 
 # Happy Learning
