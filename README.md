@@ -28,7 +28,11 @@ IDE : Jupyter notebook (My favorite)
 
 Libraries : pandas, numpy, matplotlib, plotly
 
-- Note : As it is not showing the plottings, Please check the symbol in the top right corner of input [1]. Click on the symbol u will get an " External view available " 
+# Note : 
+
+- As it is not showing the plottings, Please check the symbol in the top right corner of input [1]. Click on the symbol u will get an " External view available " 
 - Click that view u can get proper visualizations over there.
 
 # Happy Learning
+
+- Keep in Touch : https://www.linkedin.com/in/akshith-kumar-469857135/
